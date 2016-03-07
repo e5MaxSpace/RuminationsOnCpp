@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
     Surrogate \
-    handle
+    handle \
+    handle2
