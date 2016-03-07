@@ -4,4 +4,5 @@ SUBDIRS += \
     Surrogate \
     handle \
     handle2 \
-    Expr_Tree
+    Expr_Tree \
+    Picture_PO
