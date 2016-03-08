@@ -5,4 +5,5 @@ SUBDIRS += \
     handle \
     handle2 \
     Expr_Tree \
-    Picture_PO
+    Picture_PO \
+    Picture_OO
