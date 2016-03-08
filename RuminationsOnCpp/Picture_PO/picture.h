@@ -17,8 +17,8 @@ class Picture
 
     friend Picture operator & (const Picture &p, const Picture &q);
 
-    public:
-        Picture();
+public:
+    Picture();
     Picture(size_t h, size_t w, char c = ' ');
     Picture(char **ss, size_t num);
     Picture(const Picture &other);
